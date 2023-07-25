@@ -1,0 +1,9 @@
+* cl-env
+
+Read .env files into your environment. Pair with `uiop:getenv`
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/mini-eggs/cl-env.git |
+| commit  | 7767b9a                                     |
+| systems | cl-env                                      |
+|---------+---------------------------------------------|
